@@ -5,3 +5,35 @@ Data Structure and Algorithms
  
 2. https://www.runoob.com/w3cnote/sort-algorithm-summary.html
   排序算法总结 - Java with static figure
+
+
+C++
+1. https://liam.page/2018/01/18/volatile-in-C-and-Cpp/
+  谈谈 C/C++ 中的 volatile
+
+2. https://blog.csdn.net/weixin_42167759/article/details/80287748
+  对C语言 static作用——修饰 变量（全局变量/局部变量）、函数
+  
+3. https://www.cnblogs.com/MikeZhang/p/CStructPrivateTest20180628.html
+  C语言结构体变量私有化   - 将结构体的定义放入源码件中实现，头文件只放声明。
+  
+  用于函数时
+  #define PUBLIC 
+  #define PRIVATE static 
+  这样，当你声明的public的时候，全局都可以用，声明private的时候，只能当前文件里使用，并且把你认为相关的东西，可以作为一个类使用的，放在一个文件里
+  PUBLIC int Demo() {
+  }
+  
+  PRIVATE int Demo() {
+  }
+  
+4. https://juejin.im/entry/5b88f6d751882542c7638a45
+  动态规划算法学习总结
+    动态规划与贪心、分治的区别
+    Interval Scheduling 问题  -- 推导 + 伪代码
+    Knapsack Problem 问题
+    Sequence Alignment
+    合唱团问题   -- C++
+    
+5. https://leetcode-cn.com/problems/coin-change/solution/dong-tai-gui-hua-tao-lu-xiang-jie-by-wei-lai-bu-ke/
+  动态规划套路详解

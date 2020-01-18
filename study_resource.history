@@ -52,6 +52,12 @@ Linux:
 2. https://segmentfault.com/a/1190000003063859
   Linux IO模式及 select、poll、epoll详解 - backup
 
+3. https://blog.csdn.net/mxsgoden/article/details/8821936
+  腾讯面试题04.进程和线程的区别
+  
+4. https://www.jianshu.com/p/9114254410ff
+  Linux内核学习之Linux进程调度初探（1）进程调度的策略（CFS）
+
 
 
 Design

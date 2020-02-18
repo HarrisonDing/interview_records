@@ -66,6 +66,13 @@ C++
   C++ const的用法详解
 15. https://blog.csdn.net/hancoder/article/details/89789166
   C++ const用法
+  
+16. https://blog.csdn.net/zhourong0511/article/details/84325463
+  内存管理面试题
+    面试题一：设置一个不能被继承的类
+    面试题二：设计一个类，只能在栈上开空间
+    面试题三：设计一个类，只能在堆上开空间
+    面试题四：单例模式 - 饿汉 和 懒汉
 
 
 
@@ -81,6 +88,16 @@ Linux:
   
 4. https://www.jianshu.com/p/9114254410ff
   Linux内核学习之Linux进程调度初探（1）进程调度的策略（CFS）
+
+5. https://blog.csdn.net/k117470154/article/details/88626900
+  C++面试 一 内存管理
+    内存泄漏
+    什么是内存碎片，怎么避免内存碎片
+    C++五大存储区
+    linux操作系统对内存的管理
+    内存池的作用及实现方法
+
+
 
 
 

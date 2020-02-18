@@ -97,7 +97,12 @@ Linux:
     linux操作系统对内存的管理
     内存池的作用及实现方法
 
-
+6. https://www.cnblogs.com/alantu2018/p/8459379.html
+  浅谈Linux的内存管理机制
+    物理内存
+    虚拟内存
+    内存的监控 - free top
+    swap
 
 
 

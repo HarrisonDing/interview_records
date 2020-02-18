@@ -53,7 +53,6 @@ C++
 10. https://www.cnblogs.com/chengxuyuancc/archive/2013/04/04/2999844.html
   宏定义和内联函数区别
 
-
 11. https://blog.csdn.net/fanyun_01/article/details/79122916 
   C++友元函数和友元类用法详解
 12. https://www.jianshu.com/p/1a1b42851a9c
@@ -74,6 +73,8 @@ C++
     面试题三：设计一个类，只能在堆上开空间
     面试题四：单例模式 - 饿汉 和 懒汉
 
+17. https://www.cnblogs.com/wxquare/p/4759020.html
+  C++11中智能指针的原理、使用、实现
 
 
 Linux:

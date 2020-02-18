@@ -104,6 +104,15 @@ Linux:
     内存的监控 - free top
     swap
 
+7. https://blog.csdn.net/qq_31860135/article/details/83620093
+  LINUX进程内存占用情况如何查看的方法， top | free | pmap | ps
+  
+8. https://www.cnblogs.com/bravery/archive/2012/06/27/2560611.html
+  观察进程的内存占用情况
+    虚拟内存
+    驻留内存
+    top 命令 VIRT， SHD， RES
+
 
 
 Design

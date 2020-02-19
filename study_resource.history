@@ -81,6 +81,9 @@ C++
 19. https://blog.csdn.net/xiaolewennofollow/article/details/52559306
   C++ 11 左值，右值，左值引用，右值引用，std::move, std::foward
 
+20. https://zhuanlan.zhihu.com/p/88584015
+  C++11的右值引用和转移语义和完美转发
+
 
 Linux:
 1. https://blog.csdn.net/a_ran/article/details/44085075

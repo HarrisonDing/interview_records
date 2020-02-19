@@ -122,6 +122,9 @@ Linux:
     驻留内存
     top 命令 VIRT， SHD， RES
 
+9. https://blog.csdn.net/gfgdsg/article/details/42709943
+  Linux内存分配小结--malloc、brk、mmap
+  含有 free 未回收 介绍
 
 
 Design

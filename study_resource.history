@@ -75,6 +75,11 @@ C++
 
 17. https://www.cnblogs.com/wxquare/p/4759020.html
   C++11中智能指针的原理、使用、实现
+  
+18. https://blog.csdn.net/hyman_yx/article/details/52044632
+  C++11 左值、右值、右值引用详解
+19. https://blog.csdn.net/xiaolewennofollow/article/details/52559306
+  C++ 11 左值，右值，左值引用，右值引用，std::move, std::foward
 
 
 Linux:
